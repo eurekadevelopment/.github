@@ -6,6 +6,7 @@ We are developers for Exynos7885 devices released on 2019 which are:
 - Galaxy A20 (SM-A205)
 - Galaxy A20e (SM-A202)
 - Galaxy A30 (SM-A305)
+- Galaxy A30s (SM-A307) (Kernel Only)
 - Galaxy A40 (SM-A405)
 
 # 🔭 Our Work
