@@ -25,5 +25,5 @@ We are developers for Exynos7885 devices released on 2019 which are:
 # Our Website
 - https://eurekadevelopment.github.io/
 
-# 🤔 Number of visitors since 28 Jan 2022:
+# 🤔 Total Number of visitors:
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=eurekadevelopment)
