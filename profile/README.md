@@ -1,6 +1,6 @@
 # ⚡ About Us
 
-We are developers for Exynos7885 devices released on 2019 which are:
+We are developers for Exynos7885 based devices released in 2019, namely:
 
 - Galaxy A10 (SM-A105)
 - Galaxy A20 (SM-A205)
