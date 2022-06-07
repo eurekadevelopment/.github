@@ -14,8 +14,8 @@ We are developers for Exynos7885 based devices released in 2019, namely:
 ### Eureka Kernel
 - Release Channel : https://t.me/eureka_kernel
 - Support Group : https://t.me/eureka_support_group
-- Current Version : 9.2
-- Next Release Version : 9.5
+- Current Version : 9.6
+- Next Release Version : 10
 
 ### Eureka ROM
 - Release Channel : https://t.me/eureka_roms
