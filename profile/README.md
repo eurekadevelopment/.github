@@ -19,7 +19,7 @@ We are developers for Exynos7885 based devices released in 2019, namely:
 ### Eureka ROM
 - Release Channel : https://t.me/eureka_roms
 - Support Group : https://t.me/eureka_support_group2
-- Current Supported Android Version : Android 13 (T)
+- Current Supported Android Version : Android 14 (U)
 
 # Our Website
 - https://eurekadevelopment.github.io/
